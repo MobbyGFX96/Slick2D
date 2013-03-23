@@ -19,12 +19,10 @@ public class HealthBar extends ProgressBar {
         this.owner = owner;
     }
 
-    @Override
     public float getProgress() {
         return ((float) owner.getHealth()) / owner.getMaxHealth();
     }
 
-    @Override
     protected Color getProgressColor(float progress) {
         if (progress < .3f) {
             return healthColors[0];
