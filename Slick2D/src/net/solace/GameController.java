@@ -1,7 +1,5 @@
 package net.solace;
 
-import net.solace.menu.MenuState;
-
 import org.newdawn.slick.GameContainer;
 import org.newdawn.slick.SlickException;
 import org.newdawn.slick.state.StateBasedGame;
