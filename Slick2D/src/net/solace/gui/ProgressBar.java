@@ -1,15 +1,7 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package net.solace.gui;
 
 import org.newdawn.slick.*;
 
-/**
- * 
- * @author Johan
- */
 public abstract class ProgressBar {
 
     private final float width;

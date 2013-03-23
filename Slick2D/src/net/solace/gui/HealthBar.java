@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package net.solace.gui;
 
 import net.solace.entity.HealthEntity;
@@ -10,10 +6,6 @@ import org.newdawn.slick.Color;
 import org.newdawn.slick.GameContainer;
 import org.newdawn.slick.Graphics;
 
-/**
- * 
- * @author Johan
- */
 public class HealthBar extends ProgressBar {
 
     private static final Color[] healthColors = new Color[] {
