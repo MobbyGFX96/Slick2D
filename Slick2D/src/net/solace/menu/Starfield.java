@@ -1,4 +1,4 @@
-package net.solace;
+package net.solace.menu;
 
 import java.util.ArrayList;
 import java.util.List;
